@@ -6,7 +6,7 @@ Code first approach - >>> package manager console -> update-database
 Bootswatch theme, minimal design.
 Basic validation.
 
-Go to the category page at the to of the main page.
+Go to the category page at the top of the main page.
 Basic CRUD functions:
 Create
 Read
